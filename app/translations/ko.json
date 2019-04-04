@@ -5,7 +5,7 @@
   "boilerplate.components.Header.home": "Home",
   "boilerplate.containers.FeaturePage.css.header": "Features",
   "boilerplate.containers.FeaturePage.css.message": "Next generation CSS",
-  "boilerplate.containers.FeaturePage.feedback.header": "Instant feedback",
+  "boilerplate.containers.FeaturePage.feedback.header": "즉각적인 피드백",
   "boilerplate.containers.FeaturePage.feedback.message": "Enjoy the best DX and code your app at the speed of thought! Your\n    saved changes to the CSS and JS are reflected instantaneously\n    without refreshing the page. Preserve application state even when\n    you update something in the underlying code!",
   "boilerplate.containers.FeaturePage.header": "Features",
   "boilerplate.containers.FeaturePage.internationalization.header": "Complete i18n Standard Internationalization & Pluralization",
